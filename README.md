@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashesfall19
-- 👀 I’m interested in gaming, understanding coding, and card games/board games
-- 🌱 I’m currently learning how to play Shogi better, how to understand how to code in Git, and how to actually play Go.
-- 💞️ I’m looking to collaborate on nothing at the moment, still trying to learn the base coding
+- 👀 I’m interested in gaming, understanding coding, and card games/board games, and some Stephen King novels
+- 🌱 I’m currently learning how to play Shogi better, how to understand how to code in Git, and enjoying to learn new things that I didn't know before
+- 💞️ I’m not looking to collaborate at the moment, still trying to learn the base coding, willing to try but am not great at the base code yet
 - 📫 How to reach me: dm and ask for discord
 
 <!---
